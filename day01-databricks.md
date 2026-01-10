@@ -6,9 +6,10 @@ Day 01: Platform Setup \& First Steps
 
 &nbsp; 
 
+* Explored Databricks workspace and UI
 * Created my first Databricks notebook  
 * Ran basic PySpark operations
-* 
+  
 
 
 
