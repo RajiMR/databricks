@@ -6,7 +6,7 @@ Day 04: Delta Lake introduction
 
  
 
-* Learned Delta Lake, Acid tranaction
+* Learned Delta Lake, Acid transaction
 * Created Delta tables with SQL and PySpark
 * Tested out the schema enforcement and validation
 
